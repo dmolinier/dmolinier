@@ -22,6 +22,7 @@ int main(int argc, char** argv) {
     
     cout<<"Premier essai"<<endl;
     cout<<"premier commit"<<endl;
+    cout<<"clone"<<endl;
 
     return 0;
 }
